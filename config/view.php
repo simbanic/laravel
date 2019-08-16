@@ -12,7 +12,10 @@ return [
     | the usual Laravel view path has already been registered for you.
     |
     */
-
+    'hell0' => [
+        'hello1',
+        'hello2'
+    ],
     'paths' => [
         resource_path('views'),
     ],
